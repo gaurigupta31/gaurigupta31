@@ -1,6 +1,6 @@
 ## Hi there, I am Gauri!
 #### 🔭 I am interested in Natural Language Processing, currently working in Machine Translation
-#### 🌱 I'm currently learning Time Series Forecasting 
+#### 🌱 I'm currently learning more about applications of AI in Healthcare! 
 #### 💬 You can reach me via email: gaurigupta.315@gmail.com
 #### My pronouns are she/her
 <br>
